@@ -1,0 +1,7 @@
+{
+  "name": "cluse",
+  "version": "0.2.0",
+  "description": "Barra de estado con el consumo de la sesión (5h y 7d)",
+  "author": { "name": "Edgar López Calomarde" },
+  "repository": "https://github.com/edgarlopezcalomarde/claude"
+}

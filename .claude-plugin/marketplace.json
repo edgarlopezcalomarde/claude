@@ -1,0 +1,19 @@
+{
+  "name": "edgar-plugins",
+  "description": "Plugins de Edgar para Claude Code",
+  "owner": {
+    "name": "Edgar López Calomarde"
+  },
+  "plugins": [
+    {
+      "name": "cluse",
+      "source": "./plugins/cluse",
+      "description": "Barra de estado con el consumo de la sesión (5h y 7d)"
+    },
+    {
+      "name": "excommit",
+      "source": "./skills/excommit",
+      "description": "Commit, sube la versión, escribe el mensaje y hace push, sin coautor"
+    }
+  ]
+}

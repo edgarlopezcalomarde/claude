@@ -1,0 +1,7 @@
+{
+  "name": "excommit",
+  "version": "0.1.0",
+  "description": "Commit, sube la versión del proyecto, escribe el mensaje y hace push, sin coautor",
+  "author": { "name": "Edgar López Calomarde" },
+  "repository": "https://github.com/edgarlopezcalomarde/claude"
+}
